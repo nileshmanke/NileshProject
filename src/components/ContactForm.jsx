@@ -26,9 +26,9 @@ const ContactForm = () => {
           <label htmlFor="inputState" className="form-label">State</label>
           <select id="inputState" className="form-select mb-2 sm:mb-0 sm:h-10">
             <option value={"Select"}></option>
-            <option>Nilesh</option>
-            <option>Mangesh</option>
-            <option>Ajay</option>
+            <option>Aurangabad</option>
+            <option>Jalna</option>
+            <option>Pune</option>
           </select>
         </div>
         <div className="col-md-2">
