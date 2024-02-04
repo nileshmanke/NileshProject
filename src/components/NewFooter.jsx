@@ -5,7 +5,7 @@ const NewFooter = () => {
     <div>
 
 <div className='mt-2'>
-    <img src='src/assets/footer.jpg' alt=''/>
+    <img src='public/images/footer.jpg' alt=''/>
     <div className='grid grid-cols-1 gap-1 p-2 text-center text-xs sm:text-sm  w-full sm:flex justify-between sm:p-4 text-white bg-sky-500 '>
       <div>
 <h1>Copyright © 2024 | All rights reserved</h1>
