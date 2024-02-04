@@ -13,8 +13,8 @@ const Demo = () => {
   return (
     <div id='home'>
 
-        <img src='public/images/0001.jpg' alt=''/>
-        <img className='public/images/0002.jpg' src='' alt=''/>
+        <img src='/images/0001.jpg' alt=''/>
+        <img className='/images/0002.jpg' src='' alt=''/>
       
         
       
